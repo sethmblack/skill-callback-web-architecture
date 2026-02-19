@@ -4,7 +4,8 @@ description: Plant narrative seeds early in content, then pay them off later in 
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.3526
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - callback-web-architecture
 - callbacks
